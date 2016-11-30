@@ -1,28 +1,9 @@
-body {
-  background-image: url("../images/mary-and-bill-background.jpg");
-}
-.alegreya-sans {
-  font-family: 'Alegreya Sans', sans-serif;
-}
-.alegreya {
-  font-family: 'Alegreya', serif;
-}
-.montserrat {
-  font-family: 'Montserrat', sans-serif;
-}
-
-.blue {
-  color: #126499;
-}
-.red {
-  color: #85171A;
-}
-.b--blue {
-  border-color: #126499;
-}
-.b--red {
-  border-color: #85171A;
-}
-.bg-blue {
-  background-color: #126499;
-}
+body { background-image: url("../images/mary-and-bill-background.jpg"); }
+.alegreya-sans { font-family: 'Alegreya Sans', sans-serif; }
+.alegreya { font-family: 'Alegreya', serif; }
+.montserrat { font-family: 'Montserrat', sans-serif; }
+.blue { color: #126499; }
+.red { color: #85171A; }
+.b--blue { border-color: #126499; }
+.b--red { border-color: #85171A; }
+.bg-blue { background-color: #126499; }
