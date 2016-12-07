@@ -16,7 +16,7 @@ You'll need git, and you'll need to either run these commands in the command lin
 
 ## Technical notes
 
-This site uses [Tachyons](http://tachyons.io) for CSS. It might feel crazy at first. Give it a try if you haven't, and familiarize yourself a bit with the documentation on the Tachyons site to get a sense of how it works. Tachyons source code is included directly in this repository because the CDN was breaking the layout occassionally.
+This site uses [Tachyons](http://tachyons.io) for CSS. It might feel crazy at first. Give it a try if you haven't, and familiarize yourself a bit with the documentation on the Tachyons site to get a sense of how it works. Tachyons source code is included directly in this repository because the CDN was breaking the layout occasionally.
 
 There's no build system, it's a plain HTML file and a little bit of CSS.
 
