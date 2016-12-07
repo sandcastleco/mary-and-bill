@@ -7,3 +7,5 @@ body { background-image: url("../images/mary-and-bill-background.jpg"); }
 .b--blue { border-color: #126499; }
 .b--red { border-color: #85171A; }
 .bg-blue { background-color: #126499; }
+.hover-blue:hover { color: #126499; }
+.hover-bg-blue:hover { background-color: #126499; }
