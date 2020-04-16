@@ -1,4 +1,4 @@
-# [Mary and Bill](http://maryandbillfilm.com) :older_man: :older_woman: :swimmer: :runner:
+# [Mary and Bill](http://maryandbillfilm.com)
 
 This is a single page website for Mary and Bill, a documentary about two 90 year old athletes made by [Andrew Napier](http://andrewnapier.com).
 
